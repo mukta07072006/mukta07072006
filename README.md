@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @mukta07072006
-- 👀 I’m interested in coding & designing
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me mail- cr8v.muktadir@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @mukta07072006
 
-<!---
-mukta07072006/mukta07072006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me
+- 👀 I’m passionate about **coding & designing**  
+- 🌱 Currently learning **Python** and exploring new tech  
+- 💞️ I’m looking to collaborate on **creative projects & open-source contributions**  
+- 📫 Reach me via email: [cr8v.muktadir@gmail.com](mailto:cr8v.muktadir@gmail.com)  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun fact: I’m a **vibe coder** who loves making things visually stunning  
+
+### My Skills
+- 💻 **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript  
+- ⚙️ **Backend:** Node.js, Express  
+- 🗄️ **Database:** Firebase Supabase  
+- 🎨 **Design:** Illustrator, Photoshop, Figma, Canva  
+
+
