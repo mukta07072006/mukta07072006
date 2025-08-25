@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @mukta07072006
+# 👋 Hi, I’m Moshud Muktadir
 
 ### About Me
 - 👀 I’m passionate about **coding & designing**  
