@@ -1,16 +1,20 @@
-# 👋 Hi, I’m Moshud Muktadir
+👋 Hi, I’m Moshud Muktadir
+About Me
 
-### About Me
-- 👀 I’m passionate about **coding & designing**    
-- 💞️ I’m looking to collaborate on **creative projects & Web Projects**  
-- 📫 Reach me via email: [cr8v.muktadir@gmail.com](mailto:cr8v.muktadir@gmail.com)  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: I’m a **vibe coder** who loves making things visually stunning  
+👀 Passionate about building web applications with clean, scalable code
 
-### My Skills
-- 💻 **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript  
-- ⚙️ **Backend:** Node.js, Express  
-- 🗄️ **Database:** Firebase, Supabase  
-- 🎨 **Design:** Illustrator, Photoshop, Figma, Canva  
+💞️ Open to collaborating on frontend-heavy and full-stack web projects
 
+📫 Reach me at: cr8v.muktadir@gmail.com
 
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I enjoy turning complex problems into simple, efficient solutions
+
+Technical Skills
+
+💻 Frontend: React, Tailwind CSS, HTML, CSS, JavaScript
+
+⚙️ Backend: Node.js, Express
+
+🗄️ Databases & BaaS: Firebase, Supabase
