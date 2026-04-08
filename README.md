@@ -1,11 +1,9 @@
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mukta07072006)
+
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Moshud Muktadir</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=mukta07072006">
-    <img src="https://komarev.com/ghpvc/?username=mukta07072006&label=Profile%20views&color=00FFFF&style=flat-square" alt="mukta07072006's profile views" />
-  </a>
-</p>
+
 
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFe85I65ec7AA/profile-displaybackgroundimage-shrink_350_1400/B56ZzNwbC8GgAY-/0/1772978549977?e=1777507200&v=beta&t=PIjM2fgj4kXn-ea_i7l6D5kn--Flfds8SvU2Yd2gF-c" alt="Banner" width="100%" />
 
