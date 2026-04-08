@@ -1,3 +1,5 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
 # 💫 About Me:
 Building real-world web projects and improving every day.<br>Currently working on new ideas, learning modern tech, and open to collaboration.
 
