@@ -25,6 +25,7 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=mukta07072006&theme=dark&hide_border=true&cache_seconds=86400" alt="mukta07072006's GitHub Streak" width="49%" />
 </p>
+<br>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=mukta07072006&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Moshud Muktadir's GitHub Trophies" />
 </p>
